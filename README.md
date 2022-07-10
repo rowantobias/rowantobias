@@ -1,7 +1,17 @@
+="="="="="="="="="="="="="="="="="="="="="="="="="="="="=
+
 this is rowan's little coding hole. i live here!
 
-for social links: https://gaywizard.art/
+i mostly do gamedev and 3d/2d artwork. 
 
-for d*scord: rowan#7961
+i work alongside my teammates in studio aurora, but i also do indie stuff.
 
-thanks, i love you
+my usual wheelhouse is 3d environment design.
+
+https://gaywizard.art/
+
+thank you!
+
+/rowan
+
+="="="="="="="="="="="="="="="="="="="="="="="="="="="="=
