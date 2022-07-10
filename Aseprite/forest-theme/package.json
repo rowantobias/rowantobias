@@ -1,0 +1,17 @@
+{
+  "name": "forest-theme",
+  "displayName": "Forest Theme",
+  "description": "it's green :-)",
+  "version": "1.0",
+  "author": { "name": "rowan tobias", "email": "donotemailmeever@nothing.gay", "url": "http://gaywizard.art/" },
+  "publisher": "rowan tobias",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "forest", "path": "." }
+    ]
+  }
+}
